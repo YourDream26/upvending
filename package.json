@@ -1,0 +1,22 @@
+{
+  "name": "upvending",
+  "version": "1.0.0",
+  "description": "Coffee Site",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YourDream26/upvending.git"
+  },
+  "keywords": [
+    "Coffee"
+  ],
+  "author": "yourdream1375@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YourDream26/upvending/issues"
+  },
+  "homepage": "https://github.com/YourDream26/upvending#readme"
+}
